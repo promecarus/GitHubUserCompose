@@ -1,3 +1,28 @@
 <resources>
+	<plurals name="follow">
+		<item quantity="one">%d follower · %d following</item>
+		<item quantity="other">%d followers · %d following</item>
+	</plurals>
+	<plurals name="gist">
+		<item quantity="one">%d public gist</item>
+		<item quantity="other">%d public gists</item>
+	</plurals>
+	<plurals name="repo">
+		<item quantity="one">%d public repository</item>
+		<item quantity="other">%d public repositories</item>
+	</plurals>
+	<string name="action_favorite">%1$s favorite</string>
+	<string name="add_to">Add to</string>
 	<string name="app_name">GitHub User Compose</string>
+	<string name="delete_all_favorite">Delete all favorite</string>
+	<string name="followers_limit">Followers Limit: %1$s</string>
+	<string name="following_limit">Following Limit: %1$s</string>
+	<string name="id_type">ID: %1$s | Type: %2$s</string>
+	<string name="no_internet_connection">No internet connection</string>
+	<string name="no_user_found">No user found</string>
+	<string name="remove_from">Remove from</string>
+	<string name="retry">Retry</string>
+	<string name="search_result_limit">Search Result Limit: %1$s</string>
+	<string name="setting">Setting</string>
+	<string name="detail_user">Detail User</string>
 </resources>
